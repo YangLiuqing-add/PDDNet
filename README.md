@@ -46,7 +46,7 @@ BibTeX:
 ## Contact
     If you have any suggestions or questions, please contact me:
     Liuqing Yang 
-    yangliuqingqin@163.com
+    yanglq199301@gmail.com
   
   
   
