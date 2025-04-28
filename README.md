@@ -19,7 +19,7 @@
 ## Reference
 If you find this package useful, please do not forget to cite the following paper.
 
-    Yang, L., Malehmir, A., and Markovic, M. (2025). Enhanced Hardrock Seismic Imaging through Multi-Scale Information-Guided Unsupervised Learning, Journal of Geophysical Research: Machine learning and Computation, In press.
+    Yang, L., Malehmir, A., and Markovic, M. (2025). Enhanced Hardrock Seismic Imaging through Multi-Scale Information-Guided Unsupervised Learning. Under review.
     
 BibTeX:
 	
