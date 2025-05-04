@@ -8,7 +8,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/YangLiuqing-add/PDDNet?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/YangLiuqing-add?style=social)
 
-**Enhanced Hardrock Seismic Imaging through Multi-Scale Information-Guided Unsupervised Learningn**
+**Enhanced Hardrock Seismic Imaging through Multi-Scale Information-Guided Unsupervised Learning**
 ======
 
 ## Description
